@@ -1,3 +1,0 @@
-Git workflow
-Git reset
-Git revertw
